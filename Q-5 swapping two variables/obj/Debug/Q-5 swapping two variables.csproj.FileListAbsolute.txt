@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-5 swapping two variables\bin\Debug\Q-5 swapping two variables.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-5 swapping two variables\bin\Debug\Q-5 swapping two variables.exe
+C:\C#.net\Top 75 programs for coding written test\Q-5 swapping two variables\bin\Debug\Q-5 swapping two variables.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-5 swapping two variables\obj\Debug\Q-5 swapping two variables.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-5 swapping two variables\obj\Debug\Q-5 swapping two variables.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-5 swapping two variables\obj\Debug\Q-5 swapping two variables.exe
+C:\C#.net\Top 75 programs for coding written test\Q-5 swapping two variables\obj\Debug\Q-5 swapping two variables.pdb

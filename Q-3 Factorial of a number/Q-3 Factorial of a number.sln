@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q-3 Factorial of a number", "Q-3 Factorial of a number.csproj", "{AA26FB07-6089-4BF3-B6F5-B8DAB3538C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA26FB07-6089-4BF3-B6F5-B8DAB3538C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA26FB07-6089-4BF3-B6F5-B8DAB3538C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA26FB07-6089-4BF3-B6F5-B8DAB3538C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA26FB07-6089-4BF3-B6F5-B8DAB3538C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673FFD10-B038-4234-AD2C-B394F64CCE28}
+	EndGlobalSection
+EndGlobal
