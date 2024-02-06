@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-10 sum of even nubers in given range\bin\Debug\Q-10 sum of even nubers in given range.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-10 sum of even nubers in given range\bin\Debug\Q-10 sum of even nubers in given range.exe
+C:\C#.net\Top 75 programs for coding written test\Q-10 sum of even nubers in given range\bin\Debug\Q-10 sum of even nubers in given range.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-10 sum of even nubers in given range\obj\Debug\Q-10 sum of even nubers in given range.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-10 sum of even nubers in given range\obj\Debug\Q-10 sum of even nubers in given range.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-10 sum of even nubers in given range\obj\Debug\Q-10 sum of even nubers in given range.exe
+C:\C#.net\Top 75 programs for coding written test\Q-10 sum of even nubers in given range\obj\Debug\Q-10 sum of even nubers in given range.pdb

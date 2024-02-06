@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-7 check given number is prime or not\bin\Debug\Q-7 check given number is prime or not.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-7 check given number is prime or not\bin\Debug\Q-7 check given number is prime or not.exe
+C:\C#.net\Top 75 programs for coding written test\Q-7 check given number is prime or not\bin\Debug\Q-7 check given number is prime or not.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-7 check given number is prime or not\obj\Debug\Q-7 check given number is prime or not.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-7 check given number is prime or not\obj\Debug\Q-7 check given number is prime or not.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-7 check given number is prime or not\obj\Debug\Q-7 check given number is prime or not.exe
+C:\C#.net\Top 75 programs for coding written test\Q-7 check given number is prime or not\obj\Debug\Q-7 check given number is prime or not.pdb

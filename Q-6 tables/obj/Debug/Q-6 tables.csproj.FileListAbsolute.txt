@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-6 tables\bin\Debug\Q-6 tables.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-6 tables\bin\Debug\Q-6 tables.exe
+C:\C#.net\Top 75 programs for coding written test\Q-6 tables\bin\Debug\Q-6 tables.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-6 tables\obj\Debug\Q-6 tables.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-6 tables\obj\Debug\Q-6 tables.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-6 tables\obj\Debug\Q-6 tables.exe
+C:\C#.net\Top 75 programs for coding written test\Q-6 tables\obj\Debug\Q-6 tables.pdb
