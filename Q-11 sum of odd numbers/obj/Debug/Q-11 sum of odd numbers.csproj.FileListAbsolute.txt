@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-11 sum of odd numbers\bin\Debug\Q-11 sum of odd numbers.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-11 sum of odd numbers\bin\Debug\Q-11 sum of odd numbers.exe
+C:\C#.net\Top 75 programs for coding written test\Q-11 sum of odd numbers\bin\Debug\Q-11 sum of odd numbers.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-11 sum of odd numbers\obj\Debug\Q-11 sum of odd numbers.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-11 sum of odd numbers\obj\Debug\Q-11 sum of odd numbers.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-11 sum of odd numbers\obj\Debug\Q-11 sum of odd numbers.exe
+C:\C#.net\Top 75 programs for coding written test\Q-11 sum of odd numbers\obj\Debug\Q-11 sum of odd numbers.pdb
