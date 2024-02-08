@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-22 number of prime numbers display in given range\bin\Debug\Q-22 number of prime numbers display in given range.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-22 number of prime numbers display in given range\bin\Debug\Q-22 number of prime numbers display in given range.exe
+C:\C#.net\Top 75 programs for coding written test\Q-22 number of prime numbers display in given range\bin\Debug\Q-22 number of prime numbers display in given range.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-22 number of prime numbers display in given range\obj\Debug\Q-22 number of prime numbers display in given range.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-22 number of prime numbers display in given range\obj\Debug\Q-22 number of prime numbers display in given range.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-22 number of prime numbers display in given range\obj\Debug\Q-22 number of prime numbers display in given range.exe
+C:\C#.net\Top 75 programs for coding written test\Q-22 number of prime numbers display in given range\obj\Debug\Q-22 number of prime numbers display in given range.pdb

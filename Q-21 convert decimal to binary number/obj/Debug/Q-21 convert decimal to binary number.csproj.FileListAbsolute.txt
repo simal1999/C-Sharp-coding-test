@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-21 convert decimal to binary number\bin\Debug\Q-21 convert decimal to binary number.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-21 convert decimal to binary number\bin\Debug\Q-21 convert decimal to binary number.exe
+C:\C#.net\Top 75 programs for coding written test\Q-21 convert decimal to binary number\bin\Debug\Q-21 convert decimal to binary number.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-21 convert decimal to binary number\obj\Debug\Q-21 convert decimal to binary number.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-21 convert decimal to binary number\obj\Debug\Q-21 convert decimal to binary number.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-21 convert decimal to binary number\obj\Debug\Q-21 convert decimal to binary number.exe
+C:\C#.net\Top 75 programs for coding written test\Q-21 convert decimal to binary number\obj\Debug\Q-21 convert decimal to binary number.pdb

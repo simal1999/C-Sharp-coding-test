@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-25 Check given number is perfect number or not\bin\Debug\Q-25 Check given number is perfect number or not.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-25 Check given number is perfect number or not\bin\Debug\Q-25 Check given number is perfect number or not.exe
+C:\C#.net\Top 75 programs for coding written test\Q-25 Check given number is perfect number or not\bin\Debug\Q-25 Check given number is perfect number or not.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-25 Check given number is perfect number or not\obj\Debug\Q-25 Check given number is perfect number or not.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-25 Check given number is perfect number or not\obj\Debug\Q-25 Check given number is perfect number or not.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-25 Check given number is perfect number or not\obj\Debug\Q-25 Check given number is perfect number or not.exe
+C:\C#.net\Top 75 programs for coding written test\Q-25 Check given number is perfect number or not\obj\Debug\Q-25 Check given number is perfect number or not.pdb
