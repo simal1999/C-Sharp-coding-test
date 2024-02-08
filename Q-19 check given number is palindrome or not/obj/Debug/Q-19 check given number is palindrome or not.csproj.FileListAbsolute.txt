@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-19 check given number is palindrome or not\bin\Debug\Q-19 check given number is palindrome or not.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-19 check given number is palindrome or not\bin\Debug\Q-19 check given number is palindrome or not.exe
+C:\C#.net\Top 75 programs for coding written test\Q-19 check given number is palindrome or not\bin\Debug\Q-19 check given number is palindrome or not.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-19 check given number is palindrome or not\obj\Debug\Q-19 check given number is palindrome or not.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-19 check given number is palindrome or not\obj\Debug\Q-19 check given number is palindrome or not.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-19 check given number is palindrome or not\obj\Debug\Q-19 check given number is palindrome or not.exe
+C:\C#.net\Top 75 programs for coding written test\Q-19 check given number is palindrome or not\obj\Debug\Q-19 check given number is palindrome or not.pdb

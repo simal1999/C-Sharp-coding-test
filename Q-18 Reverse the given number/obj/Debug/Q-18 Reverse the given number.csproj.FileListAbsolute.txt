@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-18 Reverse the given number\bin\Debug\Q-18 Reverse the given number.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-18 Reverse the given number\bin\Debug\Q-18 Reverse the given number.exe
+C:\C#.net\Top 75 programs for coding written test\Q-18 Reverse the given number\bin\Debug\Q-18 Reverse the given number.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-18 Reverse the given number\obj\Debug\Q-18 Reverse the given number.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-18 Reverse the given number\obj\Debug\Q-18 Reverse the given number.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-18 Reverse the given number\obj\Debug\Q-18 Reverse the given number.exe
+C:\C#.net\Top 75 programs for coding written test\Q-18 Reverse the given number\obj\Debug\Q-18 Reverse the given number.pdb

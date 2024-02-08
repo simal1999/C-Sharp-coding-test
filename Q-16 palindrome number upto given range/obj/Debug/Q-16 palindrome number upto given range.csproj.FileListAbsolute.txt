@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-16 palindrome number upto given range\bin\Debug\Q-16 palindrome number upto given range.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-16 palindrome number upto given range\bin\Debug\Q-16 palindrome number upto given range.exe
+C:\C#.net\Top 75 programs for coding written test\Q-16 palindrome number upto given range\bin\Debug\Q-16 palindrome number upto given range.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-16 palindrome number upto given range\obj\Debug\Q-16 palindrome number upto given range.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-16 palindrome number upto given range\obj\Debug\Q-16 palindrome number upto given range.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-16 palindrome number upto given range\obj\Debug\Q-16 palindrome number upto given range.exe
+C:\C#.net\Top 75 programs for coding written test\Q-16 palindrome number upto given range\obj\Debug\Q-16 palindrome number upto given range.pdb

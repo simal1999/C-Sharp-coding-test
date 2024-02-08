@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-20 Given number converts into single digit\bin\Debug\Q-20 Given number converts into single digit.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-20 Given number converts into single digit\bin\Debug\Q-20 Given number converts into single digit.exe
+C:\C#.net\Top 75 programs for coding written test\Q-20 Given number converts into single digit\bin\Debug\Q-20 Given number converts into single digit.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-20 Given number converts into single digit\obj\Debug\Q-20 Given number converts into single digit.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-20 Given number converts into single digit\obj\Debug\Q-20 Given number converts into single digit.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-20 Given number converts into single digit\obj\Debug\Q-20 Given number converts into single digit.exe
+C:\C#.net\Top 75 programs for coding written test\Q-20 Given number converts into single digit\obj\Debug\Q-20 Given number converts into single digit.pdb
