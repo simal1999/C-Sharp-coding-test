@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-13 Pattern Program-13 (star)\bin\Debug\Q-13 Pattern Program-13 (star).exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-13 Pattern Program-13 (star)\bin\Debug\Q-13 Pattern Program-13 (star).exe
+C:\C#.net\Top 75 programs for coding written test\Q-13 Pattern Program-13 (star)\bin\Debug\Q-13 Pattern Program-13 (star).pdb
+C:\C#.net\Top 75 programs for coding written test\Q-13 Pattern Program-13 (star)\obj\Debug\Q-13 Pattern Program-13 (star).csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-13 Pattern Program-13 (star)\obj\Debug\Q-13 Pattern Program-13 (star).csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-13 Pattern Program-13 (star)\obj\Debug\Q-13 Pattern Program-13 (star).exe
+C:\C#.net\Top 75 programs for coding written test\Q-13 Pattern Program-13 (star)\obj\Debug\Q-13 Pattern Program-13 (star).pdb

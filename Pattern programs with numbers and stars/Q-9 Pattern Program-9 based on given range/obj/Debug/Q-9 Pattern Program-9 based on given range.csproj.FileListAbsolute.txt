@@ -1,0 +1,14 @@
+C:\C#.net\Top 75 programs for coding written test\Q-9 Pattern Program-9 based on given range\bin\Debug\Q-9 Pattern Program-9 based on given range.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-9 Pattern Program-9 based on given range\bin\Debug\Q-9 Pattern Program-9 based on given range.exe
+C:\C#.net\Top 75 programs for coding written test\Q-9 Pattern Program-9 based on given range\bin\Debug\Q-9 Pattern Program-9 based on given range.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-9 Pattern Program-9 based on given range\obj\Debug\Q-9 Pattern Program-9 based on given range.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-9 Pattern Program-9 based on given range\obj\Debug\Q-9 Pattern Program-9 based on given range.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-9 Pattern Program-9 based on given range\obj\Debug\Q-9 Pattern Program-9 based on given range.exe
+C:\C#.net\Top 75 programs for coding written test\Q-9 Pattern Program-9 based on given range\obj\Debug\Q-9 Pattern Program-9 based on given range.pdb
+C:\C#.net\Top 75 programs for coding written test\Number And Symbol Pattern Programs\Q-9 Pattern Program-9 based on given range\bin\Debug\Q-9 Pattern Program-9 based on given range.exe.config
+C:\C#.net\Top 75 programs for coding written test\Number And Symbol Pattern Programs\Q-9 Pattern Program-9 based on given range\bin\Debug\Q-9 Pattern Program-9 based on given range.exe
+C:\C#.net\Top 75 programs for coding written test\Number And Symbol Pattern Programs\Q-9 Pattern Program-9 based on given range\bin\Debug\Q-9 Pattern Program-9 based on given range.pdb
+C:\C#.net\Top 75 programs for coding written test\Number And Symbol Pattern Programs\Q-9 Pattern Program-9 based on given range\obj\Debug\Q-9 Pattern Program-9 based on given range.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Number And Symbol Pattern Programs\Q-9 Pattern Program-9 based on given range\obj\Debug\Q-9 Pattern Program-9 based on given range.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Number And Symbol Pattern Programs\Q-9 Pattern Program-9 based on given range\obj\Debug\Q-9 Pattern Program-9 based on given range.exe
+C:\C#.net\Top 75 programs for coding written test\Number And Symbol Pattern Programs\Q-9 Pattern Program-9 based on given range\obj\Debug\Q-9 Pattern Program-9 based on given range.pdb

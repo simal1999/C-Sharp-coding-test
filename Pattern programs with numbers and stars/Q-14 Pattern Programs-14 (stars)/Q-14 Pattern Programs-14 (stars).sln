@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q-14 Pattern Programs-14 (stars)", "Q-14 Pattern Programs-14 (stars).csproj", "{ACAF229F-63B2-49A0-B668-56815AC8126B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAF229F-63B2-49A0-B668-56815AC8126B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAF229F-63B2-49A0-B668-56815AC8126B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAF229F-63B2-49A0-B668-56815AC8126B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAF229F-63B2-49A0-B668-56815AC8126B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {446D67DC-DE15-4BC8-893D-1B44C2817F67}
+	EndGlobalSection
+EndGlobal
