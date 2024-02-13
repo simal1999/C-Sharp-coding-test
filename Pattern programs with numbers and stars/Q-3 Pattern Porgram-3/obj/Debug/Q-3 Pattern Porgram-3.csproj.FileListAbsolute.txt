@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-3 Pattern Porgram-3\bin\Debug\Q-3 Pattern Porgram-3.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-3 Pattern Porgram-3\bin\Debug\Q-3 Pattern Porgram-3.exe
+C:\C#.net\Top 75 programs for coding written test\Q-3 Pattern Porgram-3\bin\Debug\Q-3 Pattern Porgram-3.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-3 Pattern Porgram-3\obj\Debug\Q-3 Pattern Porgram-3.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-3 Pattern Porgram-3\obj\Debug\Q-3 Pattern Porgram-3.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-3 Pattern Porgram-3\obj\Debug\Q-3 Pattern Porgram-3.exe
+C:\C#.net\Top 75 programs for coding written test\Q-3 Pattern Porgram-3\obj\Debug\Q-3 Pattern Porgram-3.pdb
