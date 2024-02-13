@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-7 Pattern Program-7 based\bin\Debug\Q-7 Pattern Program-7 based.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-7 Pattern Program-7 based\bin\Debug\Q-7 Pattern Program-7 based.exe
+C:\C#.net\Top 75 programs for coding written test\Q-7 Pattern Program-7 based\bin\Debug\Q-7 Pattern Program-7 based.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-7 Pattern Program-7 based\obj\Debug\Q-7 Pattern Program-7 based.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-7 Pattern Program-7 based\obj\Debug\Q-7 Pattern Program-7 based.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-7 Pattern Program-7 based\obj\Debug\Q-7 Pattern Program-7 based.exe
+C:\C#.net\Top 75 programs for coding written test\Q-7 Pattern Program-7 based\obj\Debug\Q-7 Pattern Program-7 based.pdb

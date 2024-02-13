@@ -1,0 +1,7 @@
+C:\C#.net\Top 75 programs for coding written test\Q-5 Pattern Program-5 based on given range\bin\Debug\Q-5 Pattern Program-5 based on given range.exe.config
+C:\C#.net\Top 75 programs for coding written test\Q-5 Pattern Program-5 based on given range\bin\Debug\Q-5 Pattern Program-5 based on given range.exe
+C:\C#.net\Top 75 programs for coding written test\Q-5 Pattern Program-5 based on given range\bin\Debug\Q-5 Pattern Program-5 based on given range.pdb
+C:\C#.net\Top 75 programs for coding written test\Q-5 Pattern Program-5 based on given range\obj\Debug\Q-5 Pattern Program-5 based on given range.csproj.AssemblyReference.cache
+C:\C#.net\Top 75 programs for coding written test\Q-5 Pattern Program-5 based on given range\obj\Debug\Q-5 Pattern Program-5 based on given range.csproj.CoreCompileInputs.cache
+C:\C#.net\Top 75 programs for coding written test\Q-5 Pattern Program-5 based on given range\obj\Debug\Q-5 Pattern Program-5 based on given range.exe
+C:\C#.net\Top 75 programs for coding written test\Q-5 Pattern Program-5 based on given range\obj\Debug\Q-5 Pattern Program-5 based on given range.pdb
